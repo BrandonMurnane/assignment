@@ -1,6 +1,5 @@
 package assignment;
 import java.util.ArrayList;
-
 import processing.core.PApplet;
 
 
